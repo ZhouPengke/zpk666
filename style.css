@@ -1,0 +1,151 @@
+ul{
+  list-style-type:none;
+  nargin:0;
+  padding:0;  
+
+}
+li{
+  border:2px solid blue;
+  display:inline-block;
+  nargin:0.5rem;
+    
+}
+a{
+  text-decoration:none;
+  background-color:#FFFACD;
+  color:#600;
+  padding:0.5rem;
+  display:block;
+
+}
+a:hover{
+  background-color:#600;
+  color:#A9A9A9;
+}
+body{
+  background-image: url("https://pic1.zhimg.com/v2-88b2b88e1f553901410d41d934596034_r.jpg?source=1940ef5c");
+background-size: 100%;
+  background-opacity:0.5;
+  font-family:"Open Sans",sans-serif;
+  font-size:150%;
+}
+
+
+
+h1 {
+color:#BC8F8F;
+font-size: 2em;
+padding-top: 100px;
+  text-align: center;
+width: 100%;
+
+}
+
+h2 {
+border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+color: #800000;
+font-weight: 100;
+font-size: 22px;
+line-height: 24px;
+padding-bottom: 30px;
+
+width: 70%;
+}
+h3{
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+color: #800000;
+font-weight: 100;
+font-size: 22px;
+line-height: 24px;
+padding-bottom: 30px;
+
+width: 70%;
+}
+h4{
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+color: #800000;
+font-weight: 100;
+font-size: 22px;
+line-height: 24px;
+padding-bottom: 30px;
+
+width: 70%;
+}
+h5{
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+color: #800000;
+font-weight: 100;
+font-size: 22px;
+line-height: 24px;
+padding-bottom: 30px;
+
+width: 70%;
+}
+h6{
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+color: #800000;
+font-weight: 100;
+font-size: 22px;
+line-height: 24px;
+padding-bottom: 30px;
+
+width: 70%;
+}
+h7{
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+color: #800000;
+font-weight: 100;
+font-size: 22px;
+line-height: 24px;
+padding-bottom: 30px;
+
+width: 70%;
+}
+p {
+color: #191970;
+line-height: 1.3em;
+text-align: left;
+width: 100%;
+}
+
+.byline {
+font-family: Helvetica;
+color: rgba(255, 255, 255, 0.5);
+float: left;
+font-size: 14px;
+padding-left: 10px;
+text-transform: uppercase;
+}
+
+.caption {
+display: block;
+font-family: 'Playfair Display', serif;
+font-size: 34px;
+font-style: italic;
+line-height: 34px;
+margin-left: 20px;
+padding: 10px;
+position: relative;
+text-align: center;
+top: 50%;
+width: 90%;
+}
+
+.content {
+padding: 40px;
+}
+
+.image {
+background-image: url("https://www.nbcc.edu.cn/xygk/xyjj/201207/W020160422579116262862.jpg");
+background-size: 100%;
+background-position: left;
+height:300px;
+}
+
+.writer-img {
+-webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+-moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+float: left;
+width: 50px;
+}
